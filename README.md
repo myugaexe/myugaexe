@@ -1,3 +1,4 @@
+![logo](https://github.com/myuga05/myuga05/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Yuga Billawal Rizqi</h1>
 <h3 align="center">Software engineering student from Sepuluh Nopember Institute of Technology</h3>
 
