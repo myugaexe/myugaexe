@@ -13,8 +13,8 @@
 <a href="https://instagram.com/_myuuga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_myuuga" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myuga05&show_icons=true&locale=en&layout=compact" alt="myuga05" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myugaexe&show_icons=true&locale=en&layout=compact" alt="myugaexe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myuga05&show_icons=true&locale=en" alt="myuga05" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myugaexe&show_icons=true&locale=en" alt="myugaexe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myuga05&" alt="myuga05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myugaexe&" alt="myugaexe" /></p>
