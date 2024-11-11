@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Yuga Billawal Rizqi</h1>
 <h3 align="center">Software engineering student from Sepuluh Nopember Institute of Technology</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/19/75/57/19755796d4cd2b2eab18b05d8a2e37d1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myuga05&label=Profile%20views&color=0e75b6&style=flat" alt="myuga05" /> </p>
 
 - 📫 How to reach me **muhyugabillawalrizqi@gmail.com**
