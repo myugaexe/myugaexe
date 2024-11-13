@@ -15,7 +15,7 @@ Developing an interest in programming since high school, I am now deepening my k
 <br>
 <div align=center>
   <br/>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=myugaexe&exclude_repo=repo1,repo2&show_icons=true&locale=en&layout=compact" alt="myugaexe" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=myugaexe&show_icons=true&locale=en&layout=compact&langs_count=10" alt="myugaexe" /></p>
 </div>
 
 <br/><br/>
